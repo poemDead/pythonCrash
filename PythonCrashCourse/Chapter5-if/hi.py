@@ -1,5 +1,5 @@
 users = ['admin','tom','jack','mike','emily']
-users = []
+# users = []
 if users:
     for user in users:
         if user == 'admin':
