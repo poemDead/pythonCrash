@@ -1,0 +1,4 @@
+In Python you can create anything.
+In Python you can manipulate files with code.
+In Python you can use list to store anything.
+In Python you can use input() to get information from users.
