@@ -7,7 +7,7 @@
 - [ x ] Task: 5
 - [ x ] Task: 6
 - [ x ] Task: 7
-- [ ] Task: 8
+- [ x ] Task: 8
 - [ ] Task: 9
 - [ ] Task: 10
 - [ x ] Task: 11
@@ -40,7 +40,7 @@
 - [ ] Task: 38
 - [ ] Task: 39
 - [ ] Task: 40
-- [ ] Task: 41
+- [ x ] Task: 41
 - [ ] Task: 42
 - [ ] Task: 43
 - [ ] Task: 44
