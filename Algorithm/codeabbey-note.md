@@ -8,11 +8,11 @@
 - [ x ] Task: 6
 - [ x ] Task: 7
 - [ x ] Task: 8
-- [ ] Task: 9
+- [ x ] Task: 9
 - [ ] Task: 10
 - [ x ] Task: 11
 - [ ] Task: 12
-- [ ] Task: 13
+- [ x ] Task: 13
 - [ ] Task: 14
 - [ x ] Task: 15
 - [ ] Task: 16
@@ -27,7 +27,7 @@
 - [ ] Task: 25
 - [ ] Task: 26
 - [ ] Task: 27
-- [ ] Task: 28
+- [ x ] Task: 28
 - [ ] Task: 29
 - [ ] Task: 30
 - [ ] Task: 31
